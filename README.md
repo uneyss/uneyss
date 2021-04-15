@@ -37,8 +37,9 @@
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">Let's get connected:</h2>
 
-[![Linkedin Badge]()](https://www.linkedin.com/in/üneys-ahmet-alkış-9a7a281a3/) 
-[![Instagram Badge]()](https://www.instagram.com/uneysalkis/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/üneys-ahmet-alkış-9a7a281a3/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/uneysalkis/)
+
 
