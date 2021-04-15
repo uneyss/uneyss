@@ -30,12 +30,13 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: I am also interested in game development
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">Let's get connected:</h2>
 
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/üneys-ahmet-alkış-9a7a281a3/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/uneysalkis/)
+![instagram](https://user-images.githubusercontent.com/73793862/114836150-060f5980-9ddb-11eb-9b96-36f66f1617f3.png/https://www.instagram.com/uneysalkis/)
+
 
 
