@@ -34,9 +34,8 @@
 
 <h2 align="left">Let's get connected:</h2>
 
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/üneys-ahmet-alkış-9a7a281a3/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/uneysalkis/)
-![instagram](https://user-images.githubusercontent.com/73793862/114836150-060f5980-9ddb-11eb-9b96-36f66f1617f3.png/https://www.instagram.com/uneysalkis/)
+<a target="_blank" href="https://www.linkedin.com/in/üneys-ahmet-alkış-9a7a281a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+
 
 
 
