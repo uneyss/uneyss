@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**uneyss/uneyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <h2 align="left">
  <abc>
@@ -40,5 +39,6 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge]()](https://www.linkedin.com/in/üneys-ahmet-alkış-9a7a281a3/) [![Instagram Badge]()](https://www.instagram.com/uneysalkis/)
+[![Linkedin Badge]()](https://www.linkedin.com/in/üneys-ahmet-alkış-9a7a281a3/) 
+[![Instagram Badge]()](https://www.instagram.com/uneysalkis/)
 
