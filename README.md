@@ -35,7 +35,3 @@
 <h2 align="left">Let's get connected:</h2>
 
 <a target="_blank" href="https://www.linkedin.com/in/üneys-ahmet-alkış-9a7a281a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-
-
-
-
