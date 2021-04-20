@@ -25,7 +25,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on VSCODE
+- :computer: I'm currently working on Web technologies
 - :hourglass_flowing_sand: I am a software engineering student in Poland
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: I am also interested in game development
