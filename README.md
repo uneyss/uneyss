@@ -9,9 +9,6 @@
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-     <a href="#Üneys Ahmet Alkış STATES-title"></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=uneyss&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
-
   <br>
 
  </abc>
